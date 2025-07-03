@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langgraph
+langchain_core
+mysql-connector-python
+langchain_tavily
+langchain-groq
+ipykernel
+arxiv
+wikipedia
+python-dotenv
+langchain_core
+langchainhub
